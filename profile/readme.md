@@ -2,20 +2,29 @@
 
 ![Mxnkeys Logo](https://mxnkeys.agency/wp-content/themes/mxnkeys/screenshot.png)
 
-Welcome to **Mxnkeys**! We specialize in building powerful, scalable, and creative web solutions. Our team works with modern technologies to deliver exceptional digital experiences.
+## About Us
+
+Mxnkeys is a digital agency focused on developing custom solutions for the modern web. We combine design, automation, and technology to create the best solutions for our customers.
+
+Our team specializes in:
+
+- **Custom WordPress Development**
+- **AI & Marketing Automation**
+- **Digital Design**
+
+---
+
+## 🚀 Our Work
+
+- **Web Development**: Creating custom, scalable WordPress sites tailored to your needs.
+- **AI & Automation**: Integrating AI to streamline marketing and automate customer engagement.
+- **Graphic Design**: Crafting visuals that capture attention and communicate your brand’s message.
 
 ---
 
 ## 🌐 Websites
 
-- [Mxnkeys](https://mxnkeys.dk/)
 - [Mxnkeys Agency](https://mxnkeys.agency/)
-
----
-
-## 🛠️ What We Do
-
-- Custom WordPress Development
-- Creative Digital Solutions
+- [Mxnkeys Denmark](https://mxnkeys.dk/)
 
 ---
